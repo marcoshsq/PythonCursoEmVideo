@@ -18,4 +18,4 @@ public class pe1 {
   }  
 }
 
-// Solved (づ｡◕‿‿◕｡)づ
+// Solved (づ｡◕‿‿◕｡)づ...
