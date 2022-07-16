@@ -6,7 +6,7 @@
   <h2 align="center">Programming Languages</h2>
 </div>
 
-This control contains my grades and activities for the three courses offered by the University of Washington, Programming Languages Part A, B, and C.
+This repository contains my grades and activities for the three courses offered by the University of Washington, Programming Languages Part A, B, and C.
 
 The course seeks to teach how programming languages "fit together" so that we can write better programs.
 
