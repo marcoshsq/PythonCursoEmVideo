@@ -1,10 +1,4 @@
-<p align="center">
-  <a href="https://github.com/marcoshsq/ProgrammingLanguages">
-    <img src="https://github.com/marcoshsq/ProgrammingLanguages/blob/main/RepoImages/programming-language.png" alt="pl" width="150">
-  </a>
-</p>
-  <h2 align="center">Programming Languages</h2>
-</div>
+<h2 align="center">Programming Languages</h2>
 
 This repository contains my grades and activities for the three courses offered by the University of Washington, Programming Languages Part A, B, and C.
 
