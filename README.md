@@ -1,6 +1,6 @@
 <h2 align="center">E-learning Portfolio</h2>
 
-<h2>About:<h2>
+<h2>About:</h2>
 
 I created this repository with the purpose of storing and also being a showcase for the certificates of the courses I take.
 
