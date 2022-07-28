@@ -8,13 +8,13 @@ As I take many online courses and end up receiving dozens of certificates, I wan
 
 <h2>List:</h2>
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Algorithms Toolbox](https://github.com/marcoshsq/E-learning-Portfolio/tree/main/Algorithms%20Toolbox)
+- [Channel 9 - English](https://github.com/marcoshsq/E-learning-Portfolio/tree/main/Channel%209%20-%20English)
+- [Conquer](https://github.com/marcoshsq/E-learning-Portfolio/tree/main/Conquer)
+- [Creating Business Value with Data and Looker](https://github.com/marcoshsq/E-learning-Portfolio/tree/main/Creating%20Business%20Value%20with%20Data%20and%20Looker)
+- [Creative Thinking Techniques and Tools for Success](https://github.com/marcoshsq/E-learning-Portfolio/tree/main/Creative%20Thinking_%20Techniques%20and%20Tools%20for%20Success)
+- [Data Analytics - Google](https://github.com/marcoshsq/E-learning-Portfolio/tree/main/Data%20Analytics%20-%20Google)
+- [Data Science - IBM](https://github.com/marcoshsq/E-learning-Portfolio/tree/main/Data%20Science%20-%20IBM)
 - []()
 - []()
 - []()
