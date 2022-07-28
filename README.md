@@ -1,4 +1,4 @@
-<h2 align="center">E-learning Portfolio</h2>
+<h1>E-learning Portfolio</h1>
 
 <h2>About:</h2>
 
