@@ -13,56 +13,56 @@ O surso é lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso e
 
 #### Conhecendo a linguagem
 
-- Exercício Python #01 - [Deixando tudo pronto](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_1_a_5_Conhecendo_a_Linguagem/desafio_1.py)
-- Exercício Python #02 - [Respondendo ao usuário](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_1_a_5_Conhecendo_a_Linguagem/desafio_2.py)
+- Exercício Python #01 - [Deixando tudo pronto]()
+- Exercício Python #02 - [Respondendo ao usuário]()
 
 #### Primeiros passos
 
-- Exercício Python #03 - [Somando dois números](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_1_a_5_Conhecendo_a_Linguagem/desafio_3.py)
-- Exercício Python #04 - [Dissecando uma variável](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_6_Primeiros_Passos/desafio_4.py)
+- Exercício Python #03 - [Somando dois números]()
+- Exercício Python #04 - [Dissecando uma variável]()
 
 #### Cálculos e operações
 
-- Exercício Python #05 - [Antecessor e sucessor](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_5.py)
-- Exercício Python #06 - [Dobro, triplo e raiz quadrada](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_6.py)
-- Exercício Python #07 - [Média aritmética](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_7.py)
-- Exercício Python #08 - [Conversor de medidas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_8.py)
-- Exercício Python #09 - [Tabuada](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_9.py)
-- Exercício Python #010 - [Conversor de moedas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_10.py)
-- Exercício Python #011 - [Pintando parede](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_11.py)
-- Exercício Python #012 - [Calculando descontos](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_12.py)
-- Exercício Python #013 - [Reajuste salarial](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_13.py)
-- Exercício Python #014 - [Conversor de temperaturas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_14.py)
-- Exercício Python #015 - [Aluguel de carros](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_15.py)
+- Exercício Python #05 - [Antecessor e sucessor]()
+- Exercício Python #06 - [Dobro, triplo e raiz quadrada]()
+- Exercício Python #07 - [Média aritmética]()
+- Exercício Python #08 - [Conversor de medidas]()
+- Exercício Python #09 - [Tabuada]()
+- Exercício Python #010 - [Conversor de moedas]()
+- Exercício Python #011 - [Pintando parede]()
+- Exercício Python #012 - [Calculando descontos]()
+- Exercício Python #013 - [Reajuste salarial]()
+- Exercício Python #014 - [Conversor de temperaturas]()
+- Exercício Python #015 - [Aluguel de carros]()
 
 #### Módulos
 
-- Exercício Python #016 - [Quebrando um número](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_16.py)
-- Exercício Python #017 - [Catetos e hipotenusa](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_17.py)
-- Exercício Python #018 - [Seno, cosseno e tangente](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_18.py)
-- Exercício Python #019 - [Sorteando um item na lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_19.py)
-- Exercício Python #020 - [Sorteando uma ordem na lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_20.py)
-- Exercício Python #021 - [Tocando um MP3](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_21.py)
+- Exercício Python #016 - [Quebrando um número]()
+- Exercício Python #017 - [Catetos e hipotenusa]()
+- Exercício Python #018 - [Seno, cosseno e tangente]()
+- Exercício Python #019 - [Sorteando um item na lista]()
+- Exercício Python #020 - [Sorteando uma ordem na lista]()
+- Exercício Python #021 - [Tocando um MP3]()
 
 #### Strings
 
-- Exercício Python #022 - [Analisador de textos](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_9_Strings/desafio_22.py)
-- Exercício Python #023 - [Separando dígitos de um número](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_9_Strings/desafio_23.py)
-- Exercício Python #024 - [Verificando as primeiras letras de um texto](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_9_Strings/desafio_24.py)
-- Exercício Python #025 - [Procurando uma string dentro de outra](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_9_Strings/desafio_25.py)
-- Exercício Python #026 - [Primeira e última ocorrência de uma string](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_9_Strings/desafio_26.py)
-- Exercício Python #027 - [Primeiro e último nome de uma pessoa](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_9_Strings/desafio_27.py)
+- Exercício Python #022 - [Analisador de textos]()
+- Exercício Python #023 - [Separando dígitos de um número]()
+- Exercício Python #024 - [Verificando as primeiras letras de um texto]()
+- Exercício Python #025 - [Procurando uma string dentro de outra]()
+- Exercício Python #026 - [Primeira e última ocorrência de uma string]()
+- Exercício Python #027 - [Primeiro e último nome de uma pessoa]()
 
 #### Estruturas condicionais
 
-- Exercício Python #028 - [Jogo da Adivinhação v1.0](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_28.py)
-- Exercício Python #029 - [Radar eletrônico](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_29.py)
-- Exercício Python #030 - [Par ou ímpar?](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_30.py)
-- Exercício Python #031 - [Custo da viagem](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_31.py)
-- Exercício Python #032 - [Ano bissexto](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_32.py)
-- Exercício Python #033 - [Maior e menor valores](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_33.py)
-- Exercício Python #034 - [Aumentos múltiplos](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_34.py)
-- Exercício Python #035 - [Analisando triângulo v1.0](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_10_Estruturas_Condicionais/desafio_35.py)
+- Exercício Python #028 - [Jogo da Adivinhação v1.0]()
+- Exercício Python #029 - [Radar eletrônico]()
+- Exercício Python #030 - [Par ou ímpar?]()
+- Exercício Python #031 - [Custo da viagem]()
+- Exercício Python #032 - [Ano bissexto]()
+- Exercício Python #033 - [Maior e menor valores]()
+- Exercício Python #034 - [Aumentos múltiplos]()
+- Exercício Python #035 - [Analisando triângulo v1.0]()
 
 ## Mundo 2: estruturas de controle
 
