@@ -13,8 +13,8 @@ O curso é lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso e
 
 #### Conhecendo a linguagem
 
-- Exercício Python #01 - [Deixando tudo pronto]()
-- Exercício Python #02 - [Respondendo ao usuário]()
+- Exercício Python #01 - [Deixando tudo pronto](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_01/01_Conhecendo_a_linguagem/EX_001.py)
+- Exercício Python #02 - [Respondendo ao usuário](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_01/01_Conhecendo_a_linguagem/EX_002.py)
 
 #### Primeiros passos
 
