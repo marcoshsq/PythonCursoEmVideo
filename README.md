@@ -1,6 +1,6 @@
 # Lista de exercícios resolvidos do curso de Python 3 do Curso em Vídeo.
 
-O surso é lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo.
+O curso é lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo.
 
 - [Link para Mundo 01 - Fundamentos](https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 - [Link para Mundo 02 - Estruturas de Controle](https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye)
