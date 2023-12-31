@@ -18,14 +18,14 @@ O curso é lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso e
 
 #### Primeiros passos
 
-- Exercício Python #03 - [Somando dois números]()
-- Exercício Python #04 - [Dissecando uma variável]()
+- Exercício Python #03 - [Somando dois números](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_01/02_Primeiros_passos/EX_003.py)
+- Exercício Python #04 - [Dissecando uma variável](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_01/02_Primeiros_passos/EX_004.py)
 
 #### Cálculos e operações
 
-- Exercício Python #05 - [Antecessor e sucessor]()
-- Exercício Python #06 - [Dobro, triplo e raiz quadrada]()
-- Exercício Python #07 - [Média aritmética]()
+- Exercício Python #05 - [Antecessor e sucessor](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_01/03_C%C3%A1lculos_e_opera%C3%A7%C3%B5es/EX_005.py)
+- Exercício Python #06 - [Dobro, triplo e raiz quadrada](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_01/03_C%C3%A1lculos_e_opera%C3%A7%C3%B5es/EX_006.py)
+- Exercício Python #07 - [Média aritmética](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_01/03_C%C3%A1lculos_e_opera%C3%A7%C3%B5es/EX_007.py)
 - Exercício Python #08 - [Conversor de medidas]()
 - Exercício Python #09 - [Tabuada]()
 - Exercício Python #010 - [Conversor de moedas]()
