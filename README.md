@@ -119,8 +119,8 @@ O segundo módulo do curso foca em expandir o conhecimento sobre estruturas de c
 - Exercício Python #040 - [Aquele clássico da média](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_040.py)
 - Exercício Python #041 - [Classificando atletas](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_041.py)
 - Exercício Python #042 - [Analisando triângulos v2.0](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_042.py)
-- Exercício Python #043 - [Índice de Massa Corporal]([h](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_043.py))
-- Exercício Python #044 - [Gerenciador de pagamentos]([h](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_044.py))
+- Exercício Python #043 - [Índice de Massa Corporal](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_043.py)
+- Exercício Python #044 - [Gerenciador de pagamentos](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_044.py)
 - Exercício Python #045 - [GAME: Pedra, Papel e Tesoura](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/01_Condi%C3%A7%C3%B5es/EX_045.py)
 
 #### Repetições em Python (for)
