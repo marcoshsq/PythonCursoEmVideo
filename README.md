@@ -232,16 +232,11 @@ O terceiro módulo apresenta o uso de laços de repetição com o `for`, trabalh
 
 #### Tratamento de erros em Python
 
-- Exercício Python #113 - Funções aprofundadas em Python
-- Exercício Python #114 - Site está acessível?
-- Exercício Python #115a - Criando um menu em Python
-- Exercício Python #115b - Criando um menu em Python
-- Exercício Python #115c - Finalizando o projeto
-
----
-
-Perfeito!  
-Vou te sugerir algo que soe profissional, amigável e feche o README de forma elegante, como se estivesse "amarrando" o projeto. Aqui vai uma opção:
+- Exercício Python #113 - [Funções aprofundadas em Python](--)
+- Exercício Python #114 - [Site está acessível?](--)
+- Exercício Python #115a - [Criando um menu em Python](--)
+- Exercício Python #115b - [Criando um menu em Python](--)
+- Exercício Python #115c - [Finalizando o projeto](--)
 
 ---
 
