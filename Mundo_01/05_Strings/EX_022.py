@@ -1,9 +1,17 @@
 # Crie um programa que leia o nome completo de uma pessoa e faça as seguintes transformações:
 
-# O nome com todas as letras maiúsculas
+nome = input("Digite seu nome completo: ").strip()
 
-# O nome com todas minúsculas
+# Nome em maiúsculas
+print("Nome em maiúsculas:", nome.upper())
 
-# Quantas letras ao todo (sem considerar espaços)
+# Nome em minúsculas
+print("Nome em minúsculas:", nome.lower())
 
-# Quantas letras tem o primeiro nome:
+# Número de letras (sem espaços)
+letras_total = len(nome.replace(" ", ""))
+print("Total de letras (sem contar espaços):", letras_total)
+
+# Letras do primeiro nome
+primeiro_nome = nome.split()[0]
+print("Quantidade de letras no primeiro nome:", len(primeiro_nome))

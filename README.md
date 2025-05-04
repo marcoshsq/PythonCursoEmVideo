@@ -182,9 +182,8 @@ O terceiro módulo apresenta o uso de laços de repetição com o `for`, trabalh
 
 - Exercício Python #078 - [Maior e menor valores na lista]()
 - Exercício Python #079 - [Valores únicos em uma lista]()
-- Exercício Python #080 - [Lista ordenada sem repetições]()
 - Exercício Python #080.1 - [Lista ordenada sem repetições]()
-- Exercício Python #081.2 - [Lista ordenada sem repetições]()
+- Exercício Python #080.2 - [Lista ordenada sem repetições]()
 - Exercício Python #081 - [Extraindo dados de uma lista]()
 - Exercício Python #082 - [Dividindo valores em várias listas]()
 - Exercício Python #083 - [Validando expressões matemáticas]()
@@ -234,9 +233,6 @@ O terceiro módulo apresenta o uso de laços de repetição com o `for`, trabalh
 
 - Exercício Python #113 - [Funções aprofundadas em Python](--)
 - Exercício Python #114 - [Site está acessível?](--)
-- Exercício Python #115a - [Criando um menu em Python](--)
-- Exercício Python #115b - [Criando um menu em Python](--)
-- Exercício Python #115c - [Finalizando o projeto](--)
 
 ---
 

@@ -6,3 +6,14 @@
 # centenas: 8
 # milhares: 1
 
+num = int(input("Digite um número entre 0 e 9999: "))
+
+unidade = num % 10
+dezena = (num // 10) % 10
+centena = (num // 100) % 10
+milhar = (num // 1000) % 10
+
+print("Unidade:", unidade)
+print("Dezena :", dezena)
+print("Centena:", centena)
+print("Milhar :", milhar)
