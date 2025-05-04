@@ -170,67 +170,67 @@ O terceiro módulo apresenta o uso de laços de repetição com o `for`, trabalh
 
 #### Tuplas
 
-- Exercício Python #072 - [Número por extenso]()
-- Exercício Python #073 - [Tuplas com times de futebol]()
-- Exercício Python #074 - [Maior e menor valores em tupla]()
-- Exercício Python #075 - [Análise de dados em uma tupla]()
-- Exercício Python #076 - [Lista de preços com tupla]()
-- Exercício Python #077 - [Contando vogais em tupla]()
+- Exercício Python #072 - [Número por extenso](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/01_Tuplas/EX_072.py)
+- Exercício Python #073 - [Tuplas com times de futebol](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/01_Tuplas/EX_073.py)
+- Exercício Python #074 - [Maior e menor valores em tupla](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/01_Tuplas/EX_074.py)
+- Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/01_Tuplas/EX_075.py)
+- Exercício Python #076 - [Lista de preços com tupla](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/01_Tuplas/EX_076.py)
+- Exercício Python #077 - [Contando vogais em tupla](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/01_Tuplas/EX_077.py)
 
 #### Listas
 
-- Exercício Python #078 - [Maior e menor valores na lista]()
-- Exercício Python #079 - [Valores únicos em uma lista]()
-- Exercício Python #080 - [Lista ordenada sem repetições]()
-- Exercício Python #081 - [Extraindo dados de uma lista]()
-- Exercício Python #082 - [Dividindo valores em várias listas]()
-- Exercício Python #083 - [Validando expressões matemáticas]()
+- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/02_Listas_1/EX_078.py)
+- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/02_Listas_1/EX_079.py)
+- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/02_Listas_1/EX_080.py)
+- Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/02_Listas_1/EX_081.py)
+- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/02_Listas_1/EX_082.py)
+- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/02_Listas_1/EX_083.py)
 
 #### Listas (Parte 2)
 
-- Exercício Python #084 - [Lista composta e análise de dados]()
-- Exercício Python #085 - [Listas com pares e ímpares]()
-- Exercício Python #086 - [Matrix em Python]()
-- Exercício Python #087 - [Mais sobre matriz em Python]()
-- Exercício Python #088 - [Palpites para a Mega-Sena]()
-- Exercício Python #089 - [Boletim com listas compostas]()
+- Exercício Python #084 - [Lista composta e análise de dados](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/03_Listas_2/EX_084.py)
+- Exercício Python #085 - [Listas com pares e ímpares](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/03_Listas_2/EX_085.py)
+- Exercício Python #086 - [Matrix em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/03_Listas_2/EX_086.py)
+- Exercício Python #087 - [Mais sobre matriz em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/03_Listas_2/EX_087.py)
+- Exercício Python #088 - [Palpites para a Mega-Sena](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/03_Listas_2/EX_088.py)
+- Exercício Python #089 - [Boletim com listas compostas](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/03_Listas_2/EX_089.py)
 
 #### Dicionários
 
-- Exercício Python #090 - [Dicionário em Python]()
-- Exercício Python #091 - [Jogo de dados em Python]()
-- Exercício Python #092 - [Cadastro de trabalhador em Python]()
-- Exercício Python #093 - [Cadastro de jogador de futebol]()
-- Exercício Python #094 - [Unindo dicionários e listas]()
-- Exercício Python #095 - [Aprimorando dicionários]()
+- Exercício Python #090 - [Dicionário em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/04_Dicion%C3%A1rios/EX_090.py)
+- Exercício Python #091 - [Jogo de dados em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/04_Dicion%C3%A1rios/EX_091.py)
+- Exercício Python #092 - [Cadastro de trabalhador em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/04_Dicion%C3%A1rios/EX_092.py)
+- Exercício Python #093 - [Cadastro de jogador de futebol](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/04_Dicion%C3%A1rios/EX_093.py)
+- Exercício Python #094 - [Unindo dicionários e listas](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/04_Dicion%C3%A1rios/EX_094.py)
+- Exercício Python #095 - [Aprimorando dicionários](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/04_Dicion%C3%A1rios/EX_095.py)
 
 #### Funções
 
-- Exercício Python #096 - [Função que calcula área]()
-- Exercício Python #097 - [Um print especial]()
-- Exercício Python #098 - [Função de contador]()
-- Exercício Python #099 - [Função que descobre o maior]()
-- Exercício Python #100 - [Funções para sortear e somar]()
-- Exercício Python #101 - [Funções para votação]()
-- Exercício Python #102 - [Função para fatorial]()
-- Exercício Python #103 - [Ficha do jogador]()
-- Exercício Python #104 - [Validando entrada de dados em Python]()
-- Exercício Python #105 - [Analisando e gerando dicionários]()
-- Exercício Python #106 - [Sistema interativo de ajuda em Python]()
+- Exercício Python #096 - [Função que calcula área](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_096.py)
+- Exercício Python #097 - [Um print especial](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_097.py)
+- Exercício Python #098 - [Função de contador](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_098.py)
+- Exercício Python #099 - [Função que descobre o maior](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_099.py)
+- Exercício Python #100 - [Funções para sortear e somar](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_100.py)
+- Exercício Python #101 - [Funções para votação](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_101.py)
+- Exercício Python #102 - [Função para fatorial](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_102.py)
+- Exercício Python #103 - [Ficha do jogador](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_103.py)
+- Exercício Python #104 - [Validando entrada de dados em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_104.py)
+- Exercício Python #105 - [Analisando e gerando dicionários](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_105.py)
+- Exercício Python #106 - [Sistema interativo de ajuda em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/05_Fun%C3%A7%C3%B5es/EX_106.py)
 
 #### Modularização em Python
 
-- Exercício Python #107 - [Exercitando módulos em Python]()
-- Exercício Python #108 - [Formatando moedas em Python]()
-- Exercício Python #109 - [Formatando moedas em Python]()
-- Exercício Python #110 - [Reduzindo ainda mais seu programa]()
-- Exercício Python #111 - [Transformando módulos em pacotes]()
-- Exercício Python #112 - [Entrada de dados monetários]()
+- Exercício Python #107 - [Exercitando módulos em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/06_Modulariza%C3%A7%C3%A3o/EX_107.py)
+- Exercício Python #108 - [Formatando moedas em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/06_Modulariza%C3%A7%C3%A3o/EX_108.py)
+- Exercício Python #109 - [Formatando moedas em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/06_Modulariza%C3%A7%C3%A3o/EX_109.py)
+- Exercício Python #110 - [Reduzindo ainda mais seu programa](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/06_Modulariza%C3%A7%C3%A3o/EX_110.py)
+- Exercício Python #111 - [Transformando módulos em pacotes](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/06_Modulariza%C3%A7%C3%A3o/EX_111.py)
+- Exercício Python #112 - [Entrada de dados monetários](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/06_Modulariza%C3%A7%C3%A3o/EX_112.py)
 
 #### Tratamento de erros em Python
 
-- Exercício Python #113 - [Funções aprofundadas em Python](--)
-- Exercício Python #114 - [Site está acessível?](--)
+- Exercício Python #113 - [Funções aprofundadas em Python](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/07_Tratamento_de_Erros/EX_113.py)
+- Exercício Python #114 - [Site está acessível?](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_03/07_Tratamento_de_Erros/EX_114.py)
 
 ---
 
