@@ -1,15 +1,6 @@
-Perfeito, Marcos! Vamos construir isso direito, seção por seção.
-
-Começando pelo **cabeçalho** (o título e o parágrafo introdutório).  
-Seu cabeçalho atual é direto, mas podemos turbinar para deixar mais profissional, convidativo e ainda otimizado para GitHub, LinkedIn e SEO, se você quiser divulgar depois.
-
-Aqui vai uma versão melhorada para o cabeçalho:
-
----
-
 # 🚀 Lista de Exercícios Resolvidos - Curso de Python 3 (Curso em Vídeo)
 
-Este repositório reúne a resolução completa dos exercícios propostos no curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor **Gustavo Guanabara**.  
+Este repositório reúne a resolução dos exercícios propostos no curso de **Python 3** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor **Gustavo Guanabara**.  
 O objetivo é consolidar o aprendizado de programação em Python através da prática, abordando desde conceitos básicos até estruturas de controle e manipulação de dados.
 
 > 📚 Curso gratuito, 100% online, voltado para iniciantes e também para quem deseja reforçar a base na linguagem.
