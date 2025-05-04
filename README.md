@@ -153,8 +153,7 @@ O segundo módulo do curso foca em expandir o conhecimento sobre estruturas de c
 - Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/03_Repeti%C3%A7%C3%B5es_while/EX_068.py)
 - Exercício Python #069 - [Análise de dados do grupo](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/03_Repeti%C3%A7%C3%B5es_while/EX_069.py)
 - Exercício Python #070 - [Estatística de produtos](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/03_Repeti%C3%A7%C3%B5es_while/EX_070.py)
-- Exercício Python #071.1 - [Simulador de caixa eletrônico]()
-- Exercício Python #071.2 - [Simulador de caixa eletrônico]()
+- Exercício Python #071 - [Simulador de caixa eletrônico](https://github.com/marcoshsq/PythonCursoEmVideo/blob/main/Mundo_02/03_Repeti%C3%A7%C3%B5es_while/EX_071.py)
 
 ##
 
@@ -182,8 +181,7 @@ O terceiro módulo apresenta o uso de laços de repetição com o `for`, trabalh
 
 - Exercício Python #078 - [Maior e menor valores na lista]()
 - Exercício Python #079 - [Valores únicos em uma lista]()
-- Exercício Python #080.1 - [Lista ordenada sem repetições]()
-- Exercício Python #080.2 - [Lista ordenada sem repetições]()
+- Exercício Python #080 - [Lista ordenada sem repetições]()
 - Exercício Python #081 - [Extraindo dados de uma lista]()
 - Exercício Python #082 - [Dividindo valores em várias listas]()
 - Exercício Python #083 - [Validando expressões matemáticas]()
